@@ -1,5 +1,5 @@
 body {
-    background-image: url("/img/f.png");
+    background-image: url("../img/f.png");
     background: linear-gradient(to bottom, #7b1f1f, #d32f2f, #ffc1c1);
     font-family: 'Segoe UI', sans-serif;
     display: flex;
